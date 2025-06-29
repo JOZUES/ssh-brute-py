@@ -1,5 +1,3 @@
-# ssh-brute-py
-
 # SSH Brute Force Tool using Pwntools & Paramiko
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
