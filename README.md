@@ -41,7 +41,9 @@ Do not use it on systems you do not own or have permission to test.
 This project is licensed under the MIT License.
 See the LICENSE file for full details.
 
+### Author
 Developed by JOZUES
+
 Feel free to fork, contribute, and star the repo!
 
 
